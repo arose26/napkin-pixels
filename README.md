@@ -1,6 +1,6 @@
 # napkin-pixels
 
-Repo 2 of the **napkin-gamemaster series**. [napkin-returns](https://github.com/arose26/napkin-returns) settled the algorithm (data reuse does the lifting; the clip is free insurance; nothing ships under 5 seeds). This repo holds the algorithm fixed and varies exactly one thing — **what the agent sees** — to answer:
+Repo 2 of the **[napkin-gamemaster series](https://github.com/arose26/napkin-gamemaster)** (series home and index). [napkin-returns](https://github.com/arose26/napkin-returns) settled the algorithm (data reuse does the lifting; the clip is free insurance; nothing ships under 5 seeds). This repo holds the algorithm fixed and varies exactly one thing — **what the agent sees** — to answer:
 
 > **What does learning from pixels actually cost, relative to privileged state — and what's the cheapest pair of glasses that buys the difference back?**
 
